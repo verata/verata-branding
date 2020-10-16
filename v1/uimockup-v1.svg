@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="uimockup-v1.svg">
+   sodipodi:docname="uimockup-v1.svg"
+   inkscape:export-filename="/home/owen/Desktop/f.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,8 +30,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="920.88708"
-     inkscape:cy="531.02811"
+     inkscape:cx="758.13285"
+     inkscape:cy="617.76983"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1236,7 +1239,8 @@ AElFTkSuQmCC
          y="25.663914" />
     </g>
     <g
-       id="g1125">
+       id="g1125"
+       transform="matrix(0.88534766,0,0,0.83948673,52.667523,54.695783)">
       <rect
          ry="12.834039"
          y="31.880758"
@@ -1785,5 +1789,36 @@ ggWE4QQWEIYTWEAYTmABYTiBBYThBBYQhhNYQBhORCSgy5fbPvrgnwcP1QZt93q97/x1j9F4mm3H
                id="flowPara1447-2">Author</flowPara></flowRoot>        </g>
       </g>
     </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.70092809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect815-2"
+       width="102.6288"
+       height="41.363602"
+       x="417.28818"
+       y="28.46944"
+       ry="8.5616579" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1286"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.29851973,0,0,0.29851973,-53.527096,18.27003)"><flowRegion
+         id="flowRegion1288"><rect
+           id="rect1290"
+           width="305.06616"
+           height="124.24876"
+           x="1606.1426"
+           y="63.786541" /></flowRegion><flowPara
+         id="flowPara1294">Small Title</flowPara><flowPara
+         id="flowPara1298" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="426.82941"
+       y="58.328297"
+       id="text1302"><tspan
+         sodipodi:role="line"
+         id="tspan1300"
+         x="426.82941"
+         y="58.328297"
+         style="font-style:italic;font-size:5.64444447px;stroke-width:0.26458332">By Author</tspan></text>
   </g>
 </svg>
